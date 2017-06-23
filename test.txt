@@ -5,3 +5,4 @@ user2 move to his personal branch
 user2 make a commit for dev branch
 user2 make a commit for dev branch2
 user 1 move to his personal branch
+user1 move to his personal branch
