@@ -2,3 +2,4 @@ making initial commit
 now we have a dev branch
 user2 made another change in dev branch
 user2 move to his personal branch
+user2 make a commit for dev branch
